@@ -1,4 +1,4 @@
 # apnademo
 this is  frst gig repo
 <br>
-author - reena parveen
+author - reena parveen (apna college)
